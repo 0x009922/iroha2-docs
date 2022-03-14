@@ -3,7 +3,7 @@ home: true
 heroImage: /img/logo.svg
 heroAlt: Iroha 2
 heroText: Hyperledger IROHA 2
-tagline: subtitle?
+tagline: subtitle? test new str
 actionText: Get Started
 actionLink: /guide/introduction
 features:
